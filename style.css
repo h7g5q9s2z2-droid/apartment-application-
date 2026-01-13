@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  background: white;
+  padding: 25px;
+  margin: auto;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  color: #555;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 25px;
+  width: 100%;
+  padding: 15px;
+  background: black;
+  color: white;
+  border: none;
+  font-size: 16px;
+}
+
+.disclaimer {
+  font-size: 12px;
+  color: #666;
+}
